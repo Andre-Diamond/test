@@ -26,3 +26,15 @@ Second commits should be inserted below correct date
 
 ***
 
+***
+
+## Thursday 17th August 2023
+
+### Test2 Workgroup
+
+Second commit
+
+Second commits should be inserted below correct date
+
+***
+
