@@ -24,9 +24,19 @@ Second commit
 
 Second commits should be added below correct date
 
-***
+
 
 ## Friday 18th August 2023
+
+### Test3 Workgroup
+
+Second commit
+
+Second commits should be added below correct date
+
+***
+
+## Thursday 17th August 2023
 
 ### Test3 Workgroup
 
