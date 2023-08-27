@@ -24,6 +24,14 @@ Second commit
 
 Second commits should be inserted below correct date
 
+### Test3 Workgroup
+
+Second commit
+
+Second commits should be inserted below correct date
+
+***
+
 ***
 
 ***
