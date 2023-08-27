@@ -15,3 +15,13 @@ First commit
 First commits should have metadata and week
 
 ***
+
+## Tuesday 15th August 2023
+
+### Test2 Workgroup
+
+Second commit
+
+Second commits should be added below correct date
+
+***
