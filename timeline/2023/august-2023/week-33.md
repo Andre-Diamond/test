@@ -6,3 +6,6 @@
       ## Testing frist commit
 
 First commits should have metadata at top
+## Testing second commit
+
+Second commits should be added below first commits
