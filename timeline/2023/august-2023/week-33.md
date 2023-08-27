@@ -5,7 +5,6 @@
 Second commit
 
 Second commits should be inserted under correct dates
-***
 
 ***
 
@@ -17,6 +16,17 @@ First commit
 
 First commits should have metadata
 
+
+***
+
+## Thursday 17th August 2023
+
+### Test2 Workgroup
+
+Second commit
+
+Second commits should be inserted under correct dates
+***
 ***
 
 ## Friday 18th August 2023
@@ -27,6 +37,7 @@ Second commit
 
 Second commits should be inserted under correct dates
 ***
+
 ***
 
 ---
