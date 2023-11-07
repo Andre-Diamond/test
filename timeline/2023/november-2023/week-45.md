@@ -6,6 +6,7 @@ description: 5th November 2023 to 11th November 2023
 
 ## Monday 6th November 2023
 
+
 ### Governance Workgroup
 
 - Type of meeting: Weekly Meeting
@@ -31,4 +32,28 @@ Keywords/tags:
 - topics covered: Governance
 - references: Miroboard Links
 - emotions: Casual
+- other: Deepfund proposals
+
+### Translation Workgroup
+
+- Type of meeting: Weekly Meeting
+- People present: Peter
+- Purpose: Testing
+- Meeting video: Test link
+
+Issues:
+- Test issue 1
+- Test issue 2
+
+Actions Items:
+- [action] wfewfe [assignee] André [due] 2023-11-08 [status] in progress
+
+Discussion points:
+- d 1
+- d 2
+
+Keywords/tags:
+- topics covered: Rewards
+- references: Miroboard Links
+- emotions: Friendly
 - other: Deepfund proposals
