@@ -8,6 +8,7 @@ description: 5th November 2023 to 11th November 2023
 
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly Meeting
@@ -79,3 +80,30 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 - topics covered: Onboarding
 - references: GitBook links
 - emotions: Collaborative
+
+### Translation Workgroup
+
+- Type of meeting: Weekly Meeting
+- People present: Sucren [host], Vanessa [documenter], Peter
+- Purpose: Testing Archive tool
+- Meeting video: TestLink.com/r23r23r23
+
+#### Issues:
+- Need to onboard more translators
+- Need more veteran translators
+
+#### Actions Items:
+- [action] Set up meeting with onboarding workgroup [assignee] Vanessa [due] 2023-11-08 [status] in progress
+- [action] Create video to explain new process to translators [assignee] Sucren [due] 2023-11-10 [status] in progress
+
+#### Decision Items:
+- Decided to change weekly dework process
+  - [rationale] Need to update tasks before every Tuesday for payments
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Discussion points:
+- Discussed dework process 
+
+#### Keywords/tags:
+- topics covered: Rewards
+- emotions: Friendly
