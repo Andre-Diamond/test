@@ -7,6 +7,7 @@ description: 5th November 2023 to 11th November 2023
 ## Monday 6th November 2023
 
 
+
 ### Video Workgroup
 
 - Type of meeting: Weekly Meeting
@@ -54,4 +55,27 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 #### Keywords/tags:
 - topics covered: Archiving
+- emotions: Collaborative
+
+### Onboarding Workgroup
+
+- Type of meeting: Weekly Meeting
+- People present: Sucren [host], Vanessa [documenter], Peter, Stephen, Headelf
+- Purpose: Testing archive tool
+- Meeting video: Trestlink.com/32d23d3
+
+#### Actions Items:
+- [action] Create video for GitBook intro page [assignee] Headelf [due] 2023-11-10 [status] todo
+
+#### Decision Items:
+- We need a new video that lives on the gitbook intro page
+  - [rationale] Some people like to read and some like to watch videos
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Discussion points:
+- We discussed the intro page of the GitBook for Onboarding
+
+#### Keywords/tags:
+- topics covered: Onboarding
+- references: GitBook links
 - emotions: Collaborative
