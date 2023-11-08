@@ -107,3 +107,32 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 #### Keywords/tags:
 - topics covered: Rewards
 - emotions: Friendly
+## Tuesday 7th November 2023
+
+### Governance Workgroup
+
+- Type of meeting: Weekly Meeting
+- People present: Felix [host], Vanessa [documenter], Tevo, Peter, Sucren
+- Purpose: Testing archive tool
+- Meeting video: testlink.com/rwe2r32r
+
+#### Narrative:
+
+Testing more than one date in one GitHub file
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+#### Actions Items:
+- [action] Test archive tool [assignee] André [due] 2023-11-06 [status] in progress
+- [action] Finalize tool [assignee] André [due] 2023-11-10 [status] todo
+
+#### Decision Items:
+- We will start using the tool next week
+  - [rationale] We want to test so we can provide feedback for improvements
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Keywords/tags:
+- topics covered: Archiving
+- emotions: Collaborative
