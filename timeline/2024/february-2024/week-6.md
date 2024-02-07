@@ -6,6 +6,7 @@ description: 4th February 2024 to 10th February 2024
 
 ## Tuesday 6th February 2024
 
+
 ### Writers Workgroup
 
 - Type of meeting: Weekly
@@ -20,6 +21,30 @@ tests
 - [action] testest [status] todo
 
 #### Keywords/tags:
+
+
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- People present: André [facilitator], 
+- Miro board: Test
+- Working Docs:
+  - [Test](Test)
+
+#### Narrative:
+tests
+
+
+#### Decision Items:
+- TEst
+
+#### Action Items:
+- [action] testest [status] todo
+
+#### Learning Points:
+- Test
+
 
 
 ## Wednesday 7th February 2024
