@@ -4,6 +4,24 @@ description: 4th February 2024 to 10th February 2024
 
 # Week 6
 
+## Tuesday 6th February 2024
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- Working Docs:
+  - [Test](Test)
+
+#### Narrative:
+tests
+
+
+#### Action Items:
+- [action] testest [status] todo
+
+#### Keywords/tags:
+
+
 ## Wednesday 7th February 2024
 
 
