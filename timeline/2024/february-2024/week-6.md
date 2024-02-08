@@ -130,6 +130,7 @@ test
 
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -358,6 +359,34 @@ Narrative text
 #### Keywords/tags:
 - topics covered: Governance
 - emotions: Casual
+
+### Ambassador Town Hall
+
+- Type of meeting: Weekly
+- Present: André [facilitator], Tevo [documenter], Felix
+- Purpose: Test
+- Town Hall Number: 15
+- Working Docs:
+  - [Test](www.test.com)
+
+
+#### Timestamped video:
+{% embed url="https://www.youtube.com/watch?v=1y0-IfRW114" %}
+
+TEsting video
+
+[00](https://www.youtube.com/watch?v=1y0-IfRW114\&t=0s) Intro
+[1:15](https://www.youtube.com/watch?v=1y0-IfRW114\&t=75s) Test
+
+
+#### Slides:
+{% embed url="https://google.slides.com" %}
+
+#### Keywords/tags:
+- topics covered: Rewards
+- emotions: Casual
+
+
 ## Friday 9th February 2024
 
 
