@@ -127,6 +127,7 @@ test
 ## Thursday 8th February 2024
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -228,3 +229,42 @@ The person with the least amount of deaths wins.
 - emotions: Friendly, Collaborative
 - other: Test
 - games played: Roblox
+
+### Video Workgroup
+
+- Type of meeting: Weekly
+- People present: Rojo [facilitator], devon [documenter], cardano_class, Duke, lord kizzy, malik, Slate, Zalfred, lilycupcake, killy, hogantuso
+#### Discussion Points:
+- Rojo as the facilitator gave a bit of an update from the ambassador program ecosystem about BGI content planning and brainstorming  
+- There was a discussion about who will represent the workgroup in BGI summit    
+- There was a discussion of Quarterly budget
+- Devon as the task manager gave an update about the weekly tasks
+- Malik as the social media manager gave updates about posting clips and townhall video edits and summary 
+- There was a discussion about how to improve social media management by making it less about posting and more about engaging community 
+- There was a discussion about the tool to be developed by RnD guild that will facilitate  social media management. 
+- There was a discussion about the seniority of members
+- There was a discussion about improving the quality of content
+
+#### Decision Items:
+- Members and their roles were decided as follows:
+  - [effect] affectsOnlyThisWorkgroup
+- Lord Kizzy - Task manager
+  - [effect] affectsOnlyThisWorkgroup
+- Malik - Social Media Manager
+  - [effect] affectsOnlyThisWorkgroup
+- Devon - Meeting Summarizer
+  - [effect] affectsOnlyThisWorkgroup
+- Lilycupcake - Townhall video editor
+  - [effect] affectsOnlyThisWorkgroup
+- HoganTuso - Weekly meeting Facilitator
+  - [effect] affectsOnlyThisWorkgroup
+- Cardano_Class - Townhall Summary editor
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Members to be responsible for their newly selected recurring tasks immediately for the duration of 1 month [assignee] Anyone [due] 1 March 1 [status] todo
+- [action] Training of members for new roles [assignee] Rojo [status] todo
+
+#### Keywords/tags:
+- topics covered: BGI, social media management, Q4 report, Ambassador Program marketing, Task Assignment
+- emotions: Friendly, Collaborative
