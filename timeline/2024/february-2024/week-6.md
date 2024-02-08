@@ -129,6 +129,7 @@ test
 
 
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -331,3 +332,29 @@ The person with the least amount of deaths wins.
 #### Keywords/tags:
 - topics covered: Guilds , Onboarding, TH Update , Roles, Budget 
 - emotions: Collaborative, speedy , funny , Thoughtful , Friendly
+
+### Writers Workgroup
+
+- Type of meeting: Weekly
+- People present: André [facilitator], Felix [documenter], Tevo
+- Working Docs:
+  - [test](https://test.com)
+
+#### Narrative:
+Narrative text
+
+
+#### Decision Items:
+- Decision 1
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Test action [assignee] Miro [due] 9 February 2024 [status] done
+
+#### Learning Points:
+- Making a template for writers workgroup
+- Another learning point
+
+#### Keywords/tags:
+- topics covered: Governance
+- emotions: Casual
