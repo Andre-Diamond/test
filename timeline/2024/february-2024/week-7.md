@@ -4,6 +4,38 @@ description: 11th February 2024 to 17th February 2024
 
 # Week 7
 
+## Wednesday 14th February 2024
+
+### Deep Funding Town Hall
+
+- Type of meeting: Weekly
+- Present: Peter [facilitator], Stephen [documenter], Tevo
+- Purpose: Test
+- Town Hall Number: 66
+
+#### Timestamped video:
+{% embed url="https://www.youtube.com/watch?v=UuYSAI4We20" %}
+
+First meeting of the year
+
+[00:00](https://www.youtube.com/watch?v=UuYSAI4We20\&t=0s) Intro
+[00:19](https://www.youtube.com/watch?v=UuYSAI4We20\&t=19s) Agenda
+[00:53](https://www.youtube.com/watch?v=UuYSAI4We20\&t=53s) What The Ambassador Program Is All About
+[01:13](https://www.youtube.com/watch?v=UuYSAI4We20\&t=73s) Interested In Joining Group
+[01:31](https://www.youtube.com/watch?v=UuYSAI4We20\&t=91s) Introduction To Pre-event Challenges
+[14:07](https://www.youtube.com/watch?v=UuYSAI4We20\&t=847s) Wold Be Great To Have Ambassadors 
+[16:03](https://www.youtube.com/watch?v=UuYSAI4We20\&t=963s) Shout Out To Supervisory Council 
+[18:13](https://www.youtube.com/watch?v=UuYSAI4We20\&t=1093s) See Roles/levels In The Ambassadors Program V0.1
+[43:47](https://www.youtube.com/watch?v=UuYSAI4We20\&t=2627s) Policy Implications And Budget Approval
+
+
+#### Slides:
+{% embed url="www.gogle.docs.com" %}
+
+#### Keywords/tags:
+- topics covered: Rewards
+
+
 ## Friday 16th February 2024
 
 ### Treasury Guild
