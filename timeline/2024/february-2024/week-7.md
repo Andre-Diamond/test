@@ -69,6 +69,7 @@ TEsting
 
 ## Thursday 15th February 2024
 
+
 ### Governance Workgroup
 
 - Type of meeting: Weekly
@@ -97,6 +98,29 @@ TEsting
 - topics covered: Governance
 - emotions: Friendly
 - other: Test
+
+
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Felix [facilitator], Peter [documenter], Tevo, Peter, Felix
+- Purpose: TEst
+#### Narrative:
+TEst
+
+
+#### Discussion Points:
+- test
+
+#### Decision Items:
+- test
+
+#### Action Items:
+- [action] test [status] done
+
+#### Keywords/tags:
+- topics covered: Governance
 
 
 ## Friday 16th February 2024
