@@ -36,6 +36,38 @@ First meeting of the year
 - topics covered: Rewards
 
 
+## Thursday 15th February 2024
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Felix [facilitator], Tevo [documenter], Felix, Tevo, André
+- Purpose: Testing
+#### Narrative:
+TEsting
+
+
+#### Discussion Points:
+- TEst 1
+- Test 2
+
+#### Decision Items:
+- Test 111
+- Test 222222
+  - [rationale] Test
+  - [opposing] wwffqfqw
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Test [assignee] André [due] 16 February 2024 [status] todo
+- [action] TEst 2 [assignee] Felix [due] 13 February 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Governance
+- emotions: Friendly
+- other: Test
+
+
 ## Friday 16th February 2024
 
 ### Treasury Guild
