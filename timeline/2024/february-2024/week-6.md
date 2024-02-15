@@ -51,6 +51,7 @@ tests
 
 
 
+
 ### Ambassador Town Hall
 
 - Type of meeting: Weekly
@@ -124,6 +125,27 @@ test
 
 
 #### Keywords/tags:
+
+### Archival Workgroup
+
+- Type of meeting: Biweekly
+- Present: Stephen [facilitator], Stephen [documenter], André, Vanessa, Peter, Tevo
+- Meeting video: [Link](https://www.youtube.com/watch?v=Cp-3HDIuwJk)
+- Working Docs:
+  - [Meeting Issue](https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/67)
+
+#### Decision Items:
+- Use GitHub Milestones for Fund Request dates
+  - [rationale] https://www.youtube.com/watch?v=Cp-3HDIuwJk&t=832s
+  - [opposing] None
+  - [effect] affectsOnlyThisWorkgroup
+
+#### Action Items:
+- [action] Ambassadors GitBook - Contact Sucren about further progress - https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/28 [assignee] Vanessa [due] 2024-01-10 [status] todo
+- [action] Talk to Deep Funding Focus Group about archiving DF Town Hall - https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/58#issuecomment-1768441423 [assignee] Vanessa [due] 2024-01-10 [status] todo
+
+
+
 ## Thursday 8th February 2024
 
 
