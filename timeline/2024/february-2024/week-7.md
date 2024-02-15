@@ -6,6 +6,7 @@ description: 11th February 2024 to 17th February 2024
 
 ## Wednesday 14th February 2024
 
+
 ### Deep Funding Town Hall
 
 - Type of meeting: Weekly
@@ -34,6 +35,36 @@ First meeting of the year
 
 #### Keywords/tags:
 - topics covered: Rewards
+
+
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Felix [facilitator], Tevo [documenter], Felix, Tevo, André
+- Purpose: Testing
+#### Narrative:
+TEsting
+
+
+#### Discussion Points:
+- TEst 1
+- Test 2
+
+#### Decision Items:
+- Test 111
+- Test 222222
+  - [rationale] Test
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Test [assignee] André [due] 16 February 2024 [status] todo
+- [action] TEst 2 [assignee] Felix [due] 13 February 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Governance
+- emotions: Friendly
+- other: Test
 
 
 ## Thursday 15th February 2024
