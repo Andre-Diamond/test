@@ -70,6 +70,7 @@ TEsting
 
 ## Friday 16th February 2024
 
+
 ### Treasury Guild
 
 - Type of meeting: Biweekly
@@ -129,3 +130,32 @@ TEsting
 #### Keywords/tags:
 - topics covered: Miro Board, Budget , Quarter 1, Proposals, Quarterly Budget Calculator, core contributors
 - other: As always expecting reducing rewards and stepping to people's toes brings up heated discussions, but I feel like we made quite some good progress on the meeting
+
+### Governance Workgroup
+
+- Type of meeting: Weekly
+- Present: Felix [facilitator], Tevo [documenter], Felix, Tevo, André
+- Purpose: Testing
+#### Narrative:
+TEsting qewfqwfqwfqwf
+
+
+#### Discussion Points:
+- TEst 1
+- Test 2
+
+#### Decision Items:
+- Test 111
+- Test 222222
+  - [rationale] Test
+  - [opposing] wwffqfqw
+  - [effect] mayAffectOtherPeople
+
+#### Action Items:
+- [action] Test [assignee] André [due] 16 February 2024 [status] todo
+- [action] TEst 2 [assignee] Felix [due] 13 February 2024 [status] done
+
+#### Keywords/tags:
+- topics covered: Governance
+- emotions: Friendly
+- other: Test
