@@ -3,6 +3,7 @@
 List of funded proposals from MeshJS at Cardano's Project Catalyst.
 
 > **Data Source**: Mock data (Supabase credentials not available)
+> **Last Generated**: March 17, 2025 at 11:24 AM GMT+2
 
 
 # Fund 10
