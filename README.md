@@ -2,6 +2,8 @@
 
 List of funded proposals from MeshJS at Cardano's Project Catalyst.
 
+> **Data Source**: Mock data (Supabase credentials not available)
+
 
 # Fund 10
 
