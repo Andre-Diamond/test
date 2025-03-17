@@ -120,62 +120,142 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 # Milestone Progress Charts
 
 
+<div align="center">
+
 ```mermaid
-pie title MeshJS SDK Operations: Supporting Open-Source L... (5/5)
-    "Completed" : 5
+%%{init: {'theme':'forest'}}%%
+pie
+    title 🏆 MeshJS SDK Operations: Supporting Ope... - Complete!
+    "Completed 5/5" : 5
     "Remaining" : 0
 ```
 
+**[Project ID: 1000107](https://milestones.projectcatalyst.io/projects/1000107)**
+</div>
+
+
+<div align="center">
+
 ```mermaid
-pie title Sustain & Maintain MeshJS (5/5)
-    "Completed" : 5
+%%{init: {'theme':'forest'}}%%
+pie
+    title 🏆 Sustain & Maintain MeshJS - Complete!
+    "Completed 5/5" : 5
     "Remaining" : 0
 ```
 
+**[Project ID: 1100271](https://milestones.projectcatalyst.io/projects/1100271)**
+</div>
+
+
+<div align="center">
+
 ```mermaid
-pie title Mesh Software as a Service (2/5)
-    "Completed" : 2
+%%{init: {'theme':'neutral'}}%%
+pie
+    title 🔄 Mesh Software as a Service - In Progress
+    "Completed 2/5" : 2
     "Remaining" : 3
 ```
 
+**[Project ID: 1200148](https://milestones.projectcatalyst.io/projects/1200148)**
+</div>
+
+
+<div align="center">
+
 ```mermaid
-pie title Sustain and Maintain Mesh SDK (5/5)
-    "Completed" : 5
+%%{init: {'theme':'forest'}}%%
+pie
+    title 🏆 Sustain and Maintain Mesh SDK - Complete!
+    "Completed 5/5" : 5
     "Remaining" : 0
 ```
 
+**[Project ID: 1200220](https://milestones.projectcatalyst.io/projects/1200220)**
+</div>
+
+
+<div align="center">
+
 ```mermaid
-pie title Mesh New Features to Improve Developer experien... (4/5)
-    "Completed" : 4
+%%{init: {'theme':'default'}}%%
+pie
+    title 🔜 Mesh New Features to Improve Develope... - Nearly Complete
+    "Completed 4/5" : 4
     "Remaining" : 1
 ```
 
+**[Project ID: 1200147](https://milestones.projectcatalyst.io/projects/1200147)**
+</div>
+
+
+<div align="center">
+
 ```mermaid
-pie title Cardano Builder Fest Asia by Mesh, Socious, SID... (2/4)
-    "Completed" : 2
+%%{init: {'theme':'neutral'}}%%
+pie
+    title 🔄 Cardano Builder Fest Asia by Mesh, So... - In Progress
+    "Completed 2/4" : 2
     "Remaining" : 2
 ```
 
+**[Project ID: 1300036](https://milestones.projectcatalyst.io/projects/1300036)**
+</div>
+
+
+<div align="center">
+
 ```mermaid
-pie title Mesh: Cquisitor - Transaction Investigation Tool (0/5)
-    "Completed" : 0
+%%{init: {'theme':'dark'}}%%
+pie
+    title 📋 Mesh: Cquisitor - Transaction Investi... - Not Started
+    "Completed 0/5" : 0
     "Remaining" : 5
 ```
 
+**[Project ID: 1300134](https://milestones.projectcatalyst.io/projects/1300134)**
+</div>
+
+
+<div align="center">
+
 ```mermaid
-pie title Mesh: Hydra Tools for administrating & interact... (2/5)
-    "Completed" : 2
+%%{init: {'theme':'neutral'}}%%
+pie
+    title 🔄 Mesh: Hydra Tools for administrating ... - In Progress
+    "Completed 2/5" : 2
     "Remaining" : 3
 ```
 
+**[Project ID: 1300135](https://milestones.projectcatalyst.io/projects/1300135)**
+</div>
+
+
+<div align="center">
+
 ```mermaid
-pie title Cardano Multisig Platform by Mesh, Clarity DAO ... (1/5)
-    "Completed" : 1
+%%{init: {'theme':'dark'}}%%
+pie
+    title 🚀 Cardano Multisig Platform by Mesh, Cl... - Getting Started
+    "Completed 1/5" : 1
     "Remaining" : 4
 ```
 
+**[Project ID: 1300050](https://milestones.projectcatalyst.io/projects/1300050)**
+</div>
+
+
+<div align="center">
+
 ```mermaid
-pie title Maintain Mesh and Build Developer Community (1/5)
-    "Completed" : 1
+%%{init: {'theme':'dark'}}%%
+pie
+    title 🚀 Maintain Mesh and Build Developer Com... - Getting Started
+    "Completed 1/5" : 1
     "Remaining" : 4
 ```
+
+**[Project ID: 1300130](https://milestones.projectcatalyst.io/projects/1300130)**
+</div>
+
