@@ -15,8 +15,8 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 169,413|
 |Status|✅ In Progress|
 |Milestones completed|5/5 (100%)|
-|Funds distributed|ADA 0 of 169,413 (0%)|
-|Funding Progress|<code>····················</code>|
+|Funds distributed|ADA 140,000 of 169,413 (83%)|
+|Funding Progress|<code>█████████████████···</code>|
 |Finished|September, 2024|
 
 # Fund 11
@@ -31,8 +31,8 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 150,000|
 |Status|✅ Completed|
 |Milestones completed|5/5 (100%)|
-|Funds distributed|ADA 0 of 150,000 (0%)|
-|Funding Progress|<code>····················</code>|
+|Funds distributed|ADA 150,000 of 150,000 (100%)|
+|Funding Progress|<code>████████████████████</code>|
 |Finished|September 15, 2024|
 
 # Fund 12
@@ -47,8 +47,8 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 100,000|
 |Status|🚀 In Progress|
 |Milestones completed|2/5 (40%)|
-|Funds distributed|ADA 0 of 100,000 (0%)|
-|Funding Progress|<code>····················</code>|
+|Funds distributed|ADA 40,000 of 100,000 (40%)|
+|Funding Progress|<code>████████············</code>|
 
 |Project ID|1200220|
 |:-----------|:-------------|
@@ -59,8 +59,8 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 200,000|
 |Status|✅ Completed|
 |Milestones completed|5/5 (100%)|
-|Funds distributed|ADA 0 of 200,000 (0%)|
-|Funding Progress|<code>····················</code>|
+|Funds distributed|ADA 200,000 of 200,000 (100%)|
+|Funding Progress|<code>████████████████████</code>|
 
 |Project ID|1200147|
 |:-----------|:-------------|
@@ -71,8 +71,8 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 200,000|
 |Status|🔆 In Progress|
 |Milestones completed|4/5 (80%)|
-|Funds distributed|ADA 0 of 200,000 (0%)|
-|Funding Progress|<code>····················</code>|
+|Funds distributed|ADA 160,000 of 200,000 (80%)|
+|Funding Progress|<code>████████████████····</code>|
 
 # Fund 13
 
@@ -86,8 +86,8 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 99,016|
 |Status|🔄 In Progress|
 |Milestones completed|2/4 (50%)|
-|Funds distributed|ADA 0 of 99,016 (0%)|
-|Funding Progress|<code>····················</code>|
+|Funds distributed|ADA 50,000 of 99,016 (50%)|
+|Funding Progress|<code>██████████··········</code>|
 
 |Project ID|1300134|
 |:-----------|:-------------|
@@ -110,8 +110,8 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 200,000|
 |Status|🚀 In Progress|
 |Milestones completed|2/5 (40%)|
-|Funds distributed|ADA 0 of 200,000 (0%)|
-|Funding Progress|<code>····················</code>|
+|Funds distributed|ADA 80,000 of 200,000 (40%)|
+|Funding Progress|<code>████████············</code>|
 
 |Project ID|1300050|
 |:-----------|:-------------|
@@ -122,8 +122,8 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 500,000|
 |Status|🚀 In Progress|
 |Milestones completed|1/5 (20%)|
-|Funds distributed|ADA 0 of 500,000 (0%)|
-|Funding Progress|<code>····················</code>|
+|Funds distributed|ADA 100,000 of 500,000 (20%)|
+|Funding Progress|<code>████················</code>|
 
 |Project ID|1300130|
 |:-----------|:-------------|
@@ -134,5 +134,5 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 200,000|
 |Status|🚀 In Progress|
 |Milestones completed|1/5 (20%)|
-|Funds distributed|ADA 0 of 200,000 (0%)|
-|Funding Progress|<code>····················</code>|
+|Funds distributed|ADA 40,000 of 200,000 (20%)|
+|Funding Progress|<code>████················</code>|
