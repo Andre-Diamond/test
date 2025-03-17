@@ -117,7 +117,9 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Status|In Progress|
 |Milestones completed|1/5|
 
-# Milestone Progress Charts
+# Milestone Progress Visualizations
+
+## Pie Charts
 
 
 <div align="center">
@@ -259,3 +261,215 @@ pie
 **[Project ID: 1300130](https://milestones.projectcatalyst.io/projects/1300130)**
 </div>
 
+## Progress Cards
+
+
+<div align="center">
+
+## ✅ MeshJS SDK Operations: Supporting Open-Source L...
+
+**Project ID: [1000107](https://milestones.projectcatalyst.io/projects/1000107)** | **Status: <span style="color:#2cbe4e">Completed</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 5/5 (100%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>████████████████████</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## ✅ Sustain & Maintain MeshJS
+
+**Project ID: [1100271](https://milestones.projectcatalyst.io/projects/1100271)** | **Status: <span style="color:#2cbe4e">Completed</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 5/5 (100%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>████████████████████</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 🚀 Mesh Software as a Service
+
+**Project ID: [1200148](https://milestones.projectcatalyst.io/projects/1200148)** | **Status: <span style="color:#f66a0a">Started</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 2/5 (40%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>████████░░░░░░░░░░░░</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## ✅ Sustain and Maintain Mesh SDK
+
+**Project ID: [1200220](https://milestones.projectcatalyst.io/projects/1200220)** | **Status: <span style="color:#2cbe4e">Completed</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 5/5 (100%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>████████████████████</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 🔆 Mesh New Features to Improve Developer experien...
+
+**Project ID: [1200147](https://milestones.projectcatalyst.io/projects/1200147)** | **Status: <span style="color:#7057ff">Almost Complete</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 4/5 (80%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>████████████████░░░░</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 🔄 Cardano Builder Fest Asia by Mesh, Socious, SID...
+
+**Project ID: [1300036](https://milestones.projectcatalyst.io/projects/1300036)** | **Status: <span style="color:#0366d6">In Progress</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 2/4 (50%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>██████████░░░░░░░░░░</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 📋 Mesh: Cquisitor - Transaction Investigation Tool
+
+**Project ID: [1300134](https://milestones.projectcatalyst.io/projects/1300134)** | **Status: <span style="color:#d73a49">Not Started</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 0/5 (0%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>░░░░░░░░░░░░░░░░░░░░</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 🚀 Mesh: Hydra Tools for administrating & interact...
+
+**Project ID: [1300135](https://milestones.projectcatalyst.io/projects/1300135)** | **Status: <span style="color:#f66a0a">Started</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 2/5 (40%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>████████░░░░░░░░░░░░</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 🚀 Cardano Multisig Platform by Mesh, Clarity DAO ...
+
+**Project ID: [1300050](https://milestones.projectcatalyst.io/projects/1300050)** | **Status: <span style="color:#f66a0a">Started</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 1/5 (20%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>████░░░░░░░░░░░░░░░░</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+## 🚀 Maintain Mesh and Build Developer Community
+
+**Project ID: [1300130](https://milestones.projectcatalyst.io/projects/1300130)** | **Status: <span style="color:#f66a0a">Started</span>**
+
+<table>
+  <tr>
+    <td>
+      <strong>Milestones Complete:</strong> 1/5 (20%)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>████░░░░░░░░░░░░░░░░</code>
+    </td>
+  </tr>
+</table>
+
+</div>
