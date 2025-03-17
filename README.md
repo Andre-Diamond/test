@@ -45,7 +45,7 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 100,000|
 |Status|🚀 In Progress|
 |Milestones completed|2/5 (40%)|
-|Progress|<code>████████░░░░░░░░░░░░</code>|
+|Progress|<code>████████············</code>|
 
 |Project ID|1200220|
 |:-----------|:-------------|
@@ -67,7 +67,7 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 200,000|
 |Status|🔆 In Progress|
 |Milestones completed|4/5 (80%)|
-|Progress|<code>████████████████░░░░</code>|
+|Progress|<code>████████████████····</code>|
 
 # Fund 13
 
@@ -81,7 +81,7 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 99,016|
 |Status|🔄 In Progress|
 |Milestones completed|2/4 (50%)|
-|Progress|<code>██████████░░░░░░░░░░</code>|
+|Progress|<code>██████████··········</code>|
 
 |Project ID|1300134|
 |:-----------|:-------------|
@@ -92,7 +92,7 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 200,000|
 |Status|📋 In Progress|
 |Milestones completed|0/5 (0%)|
-|Progress|<code>░░░░░░░░░░░░░░░░░░░░</code>|
+|Progress|<code>····················</code>|
 
 |Project ID|1300135|
 |:-----------|:-------------|
@@ -103,7 +103,7 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 200,000|
 |Status|🚀 In Progress|
 |Milestones completed|2/5 (40%)|
-|Progress|<code>████████░░░░░░░░░░░░</code>|
+|Progress|<code>████████············</code>|
 
 |Project ID|1300050|
 |:-----------|:-------------|
@@ -114,7 +114,7 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 500,000|
 |Status|🚀 In Progress|
 |Milestones completed|1/5 (20%)|
-|Progress|<code>████░░░░░░░░░░░░░░░░</code>|
+|Progress|<code>████················</code>|
 
 |Project ID|1300130|
 |:-----------|:-------------|
@@ -125,4 +125,4 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Proposal Budget|ADA 200,000|
 |Status|🚀 In Progress|
 |Milestones completed|1/5 (20%)|
-|Progress|<code>████░░░░░░░░░░░░░░░░</code>|
+|Progress|<code>████················</code>|
