@@ -50,18 +50,6 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Funds distributed|ADA 40,000 of 100,000 (40%)|
 |Funding Progress|<code>████████············</code>|
 
-|Project ID|1200220|
-|:-----------|:-------------|
-|Name|Sustain and Maintain Mesh SDK|
-|Link|[Open full project](https://projectcatalyst.io/funds/12/f12-cardano-open-developers/sustain-and-maintain-mesh-sdk)|
-|Milestones|[Milestones](https://milestones.projectcatalyst.io/projects/1200220)|
-|Funding Category|F12: Cardano Open: Developers|
-|Proposal Budget|ADA 200,000|
-|Status|✅ Completed|
-|Milestones completed|5/5 (100%)|
-|Funds distributed|ADA 200,000 of 200,000 (100%)|
-|Funding Progress|<code>████████████████████</code>|
-
 |Project ID|1200147|
 |:-----------|:-------------|
 |Name|Mesh New Features to Improve Developer experience and Cardano Adoption|
@@ -74,32 +62,20 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Funds distributed|ADA 160,000 of 200,000 (80%)|
 |Funding Progress|<code>████████████████····</code>|
 
+|Project ID|1200220|
+|:-----------|:-------------|
+|Name|Sustain and Maintain Mesh SDK|
+|Link|[Open full project](https://projectcatalyst.io/funds/12/f12-cardano-open-developers/sustain-and-maintain-mesh-sdk)|
+|Milestones|[Milestones](https://milestones.projectcatalyst.io/projects/1200220)|
+|Funding Category|F12: Cardano Open: Developers|
+|Proposal Budget|ADA 200,000|
+|Status|✅ Completed|
+|Milestones completed|5/5 (100%)|
+|Funds distributed|ADA 200,000 of 200,000 (100%)|
+|Funding Progress|<code>████████████████████</code>|
+
 # Fund 13
 
-
-|Project ID|1300036|
-|:-----------|:-------------|
-|Name|Cardano Builder Fest Asia by Mesh, Socious, SIDAN, Vietnam Cardano|
-|Link|[Open full project](https://projectcatalyst.io/funds/10/f13-cardano-open-ecosystem/cardano-builder-fest-asia-by-mesh-socious-sidan-vietnam-cardano)|
-|Milestones|[Milestones](https://milestones.projectcatalyst.io/projects/1300036)|
-|Funding Category|F13: Cardano Open: Ecosystem|
-|Proposal Budget|ADA 99,016|
-|Status|🔄 In Progress|
-|Milestones completed|2/4 (50%)|
-|Funds distributed|ADA 50,000 of 99,016 (50%)|
-|Funding Progress|<code>██████████··········</code>|
-
-|Project ID|1300134|
-|:-----------|:-------------|
-|Name|Mesh: Cquisitor - Transaction Investigation Tool|
-|Link|[Open full project](https://projectcatalyst.io/funds/10/f13-cardano-open-developers/mesh-cquisitor-transaction-investigation-tool)|
-|Milestones|[Milestones](https://milestones.projectcatalyst.io/projects/1300134)|
-|Funding Category|F13: Cardano Open: Developers|
-|Proposal Budget|ADA 200,000|
-|Status|📋 In Progress|
-|Milestones completed|0/5 (0%)|
-|Funds distributed|ADA 0 of 200,000 (0%)|
-|Funding Progress|<code>····················</code>|
 
 |Project ID|1300135|
 |:-----------|:-------------|
@@ -113,17 +89,17 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Funds distributed|ADA 80,000 of 200,000 (40%)|
 |Funding Progress|<code>████████············</code>|
 
-|Project ID|1300050|
+|Project ID|1300134|
 |:-----------|:-------------|
-|Name|Cardano Multisig Platform by Mesh, Clarity DAO & Fluid Tokens|
-|Link|[Open full project](https://projectcatalyst.io/funds/10/f13-cardano-use-cases-product/cardano-multisig-platform-by-mesh-clarity-dao-and-fluid-tokens)|
-|Milestones|[Milestones](https://milestones.projectcatalyst.io/projects/1300050)|
-|Funding Category|F13: Cardano Use Cases: Product|
-|Proposal Budget|ADA 500,000|
-|Status|🚀 In Progress|
-|Milestones completed|1/5 (20%)|
-|Funds distributed|ADA 100,000 of 500,000 (20%)|
-|Funding Progress|<code>████················</code>|
+|Name|Mesh: Cquisitor - Transaction Investigation Tool|
+|Link|[Open full project](https://projectcatalyst.io/funds/10/f13-cardano-open-developers/mesh-cquisitor-transaction-investigation-tool)|
+|Milestones|[Milestones](https://milestones.projectcatalyst.io/projects/1300134)|
+|Funding Category|F13: Cardano Open: Developers|
+|Proposal Budget|ADA 200,000|
+|Status|📋 In Progress|
+|Milestones completed|0/5 (0%)|
+|Funds distributed|ADA 0 of 200,000 (0%)|
+|Funding Progress|<code>····················</code>|
 
 |Project ID|1300130|
 |:-----------|:-------------|
@@ -136,3 +112,27 @@ List of funded proposals from MeshJS at Cardano's Project Catalyst.
 |Milestones completed|1/5 (20%)|
 |Funds distributed|ADA 40,000 of 200,000 (20%)|
 |Funding Progress|<code>████················</code>|
+
+|Project ID|1300050|
+|:-----------|:-------------|
+|Name|Cardano Multisig Platform by Mesh, Clarity DAO & Fluid Tokens|
+|Link|[Open full project](https://projectcatalyst.io/funds/10/f13-cardano-use-cases-product/cardano-multisig-platform-by-mesh-clarity-dao-and-fluid-tokens)|
+|Milestones|[Milestones](https://milestones.projectcatalyst.io/projects/1300050)|
+|Funding Category|F13: Cardano Use Cases: Product|
+|Proposal Budget|ADA 500,000|
+|Status|🚀 In Progress|
+|Milestones completed|1/5 (20%)|
+|Funds distributed|ADA 100,000 of 500,000 (20%)|
+|Funding Progress|<code>████················</code>|
+
+|Project ID|1300036|
+|:-----------|:-------------|
+|Name|Cardano Builder Fest Asia by Mesh, Socious, SIDAN, Vietnam Cardano|
+|Link|[Open full project](https://projectcatalyst.io/funds/10/f13-cardano-open-ecosystem/cardano-builder-fest-asia-by-mesh-socious-sidan-vietnam-cardano)|
+|Milestones|[Milestones](https://milestones.projectcatalyst.io/projects/1300036)|
+|Funding Category|F13: Cardano Open: Ecosystem|
+|Proposal Budget|ADA 99,016|
+|Status|🔄 In Progress|
+|Milestones completed|2/4 (50%)|
+|Funds distributed|ADA 50,000 of 99,016 (50%)|
+|Funding Progress|<code>██████████··········</code>|
