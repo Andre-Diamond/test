@@ -1,0 +1,155 @@
+{
+  "workgroup": "Archives Workgroup",
+  "workgroup_id": "05ddaaf0-1dde-4d84-a722-f82c8479a8e9",
+  "meetingInfo": {
+    "name": "Monthly",
+    "date": "2024-12-04",
+    "host": "Stephen [QADAO]",
+    "documenter": "CallyFromAuron",
+    "peoplePresent": "André, AshleyDawn, CallyFromAuron, Onize, PeterE, Stephen [QADAO], Sucre n Spice",
+    "purpose": "Regular monthly meeting of the Archives WorkGroup in the SingularityNET Ambassador program",
+    "meetingVideoLink": "https://www.youtube.com/playlist?list=PL4dGsCqdRj6ct6TwdrVKm_Bjg2ToCjzQh",
+    "workingDocs": [
+      {
+        "title": "SNET Archive AI features (draft of possible features an AI tool might have)",
+        "link": "https://docs.google.com/document/d/1LROsgVAQ9fQbNgMRK5qMI8q8KYsN-rGI-Gq9lvXAN5w/edit?usp=sharing"
+      },
+      {
+        "title": "Docs management tool",
+        "link": "https://snet-doc-manager.netlify.app/#"
+      },
+      {
+        "title": "New Summary Tool Features",
+        "link": "https://docs.google.com/document/d/1wxziaDEdMdYeiqv0ecuuygHgfd9a9F18odje_2qaT7g/edit?usp=sharing"
+      },
+      {
+        "title": "Archives Dashboard",
+        "link": "https://archives-dashboard.netlify.app"
+      },
+      {
+        "title": "Q1 2025 budget",
+        "link": "https://docs.google.com/spreadsheets/d/14IYxBj-9MGCZRkYIupwvbHgPYZgohnyMSQ-EUFBgpYI/edit?usp=sharing"
+      },
+      {
+        "title": "Q4 2024 quarterly report for Archives WG",
+        "link": "https://docs.google.com/document/d/1XDezIhuovjDfsyAZ-kA97Ox_WOHphXDjS_nhlvoLkNo/edit?usp=sharing"
+      },
+      {
+        "title": "Q1 budget consent results anonymized",
+        "link": "https://docs.google.com/spreadsheets/d/1n83tAT9F9fO7sG3mbr3hcbJmTCrShhV024bXAa-aVA4/edit?usp=sharing"
+      },
+      {
+        "title": "GitHub Issue for this meeting",
+        "link": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/221"
+      },
+      {
+        "title": "Archive names (a list of the name that people are most commonly known by in the Archives)",
+        "link": "https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing"
+      }
+    ]
+  },
+  "agendaItems": [
+    {
+      "status": "carry over",
+      "decisionItems": [
+        {
+          "decision": "André has implemented a controlled vocab for people's names in the Archives, based on Vani's \"Archive Names\" list https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing",
+          "rationale": "To resolve a barrier to good documentation (documenters didn't always know what someone's Discord name was, so \"Discord name = Archives name\" was not working), and ensure people are discoverable in the Archives.",
+          "opposing": "none",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "Q1 2025 Budget:",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "We noted that in the end, we were unable to include in our Q1 2025 budget an item to support collaboration outside the Ambassador Program: it would have taken us over our budget cap, although we had identified a need for it. So we note that we should try to include it in Q2 2025.",
+          "rationale": "to enable us to capture material from other areas of the ecosystem, and have a more wide-ranging Archives that demonstrates the links and connections between the Ambassador Program and other areas of the ecosystem.",
+          "opposing": "None as such, although it might be difficult to do this comprehensively and still keep to a reasonable budget amount. It might be more about outreach to different parts of the ecosystem to see how we can support them with recordkeeping.",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "We agreed that our first meeting in Jan will be Weds 8th Jan 2025",
+          "rationale": "Technically it should be the first Weds in Jan - but that's New Year's Day. Other meetings in Q1 *will* be the first Weds - so Weds 5th Feb and Weds 5th March.",
+          "opposing": "none",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "There has been a shift in direction on our work on a RAG retrieval process, after Stephen reviewed Ubio's work (see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/224 ). Stephen is aiming to structure the work as an autodidactic/self-learning approach, almost like a course. We have been questioning what we expect to use generative models *for*, and what we expect them to do; and looking at using (human) data analysis and data mining *before* we apply an LLM. Standard augmentation is usually about applying a **context** - so, what contextual constraints do we want to put on our use of a generative AI model in the context of the Archives? We need to be aware of where the data is structured and where it is unstructured (i.e. free text in meeting summaries), and look at how to structure data in a more constrained way (we note that JSON uses a \"tree\" structure, which has some parallels with the hierarchical structure of a traditional archival catalogue; and we can also see parallels with the approach of a knowledge graph database). Eventually we may use LLMs to help create semantic queries/prompts against an SQL database - so a hybrid of JSON/SQL rather than an actual knowledge graph.",
+          "rationale": "Stephen's work has shown that simply throwing large text corpora at a generative AI model tends to produce hallucinations and inaccuracies.",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "Summary tool redesign - in the light of Stephen's work above, we noted that in the new version of the Tool, rather than the current approach of several different summary templates, we might want all summaries to use the same template style as Treasury meetings, where actions and decisions are connected to each agenda item.",
+          "rationale": "Aiming to minimise the amount of free text, and structure where free text is used.",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "Summary tool redesign: possibility of linking/integrating summaries with GitHub pproject boards?",
+          "rationale": "because more and more WGs are starting to manage themselves via a GitHub Board, so the detail on an agenda item will be in the relevant Issue, and shouldn't need to be repeated in a summary - but how do we ensure that this is integrated and searchable in the Archives?",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "André's tool development work for November https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/217 has included building the new Archives dashboard https://archives-dashboard.netlify.app",
+          "rationale": "It enables searches, particularly of decisions - interesting in a governance context to see which WGs are making decisions that affect everyone, and where decisions across WGs might vary. Could help us keep abreast of when contradictory decisions are made in different meetings.",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "We noted that Sucre has completed her update of the Ambassador GitBook for Q4 2024 - see https://snet-ambassadors.gitbook.io/home/welcome-and-how-to-join/our-workgroups",
+          "effect": "affectsOnlyThisWorkgroup"
+        }
+      ],
+      "actionItems": [
+        {
+          "text": "Stephen presenting the \"Open-source paradigm\" work at a TH - this was done on 3rd December  https://youtu.be/iXsVeA5B7ao?si=_qW9xhC43TbapYxD",
+          "assignee": "Stephen [QADAO]",
+          "dueDate": "3 December 2024",
+          "status": "done"
+        },
+        {
+          "text": "Vani to check through Budget issues from previous Quarters (such as https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/73 and https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/131), which we keep open until all issues that are costed in that quarter are closed, and ensure that they can be moved to \"Done\".",
+          "assignee": "CallyFromAuron",
+          "dueDate": "21 November 2024",
+          "status": "done"
+        },
+        {
+          "text": "Vani to start a draft Quarterly Report for this Quarter, and post it in the Issue here https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/214 for comments",
+          "assignee": "CallyFromAuron",
+          "dueDate": "14 November 2024",
+          "status": "done"
+        },
+        {
+          "text": "Vani to draft Q1 budget, and post in the Issue here https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/218 for comments and suggestions",
+          "assignee": "CallyFromAuron",
+          "dueDate": "14 November 2024",
+          "status": "done"
+        },
+        {
+          "text": "Vani to approach DeepFunding, to ask about the issue raised in our November meeting about documentation of DF Town Hall: i.e. sometimes timestamps are not great, and additional work needs to be done to document the sessions in a meaningful way - could DF itself could make any further contribution to the work, e.g. by paying someone from the Town Hall team to add the documentation to the summary tool?",
+          "assignee": "CallyFromAuron",
+          "dueDate": "8 January 2025",
+          "status": "todo"
+        },
+        {
+          "text": "Vani to add the tasks in the Q1 2025 budget to the GitHub Board",
+          "assignee": "CallyFromAuron",
+          "dueDate": "8 January 2025",
+          "status": "todo"
+        },
+        {
+          "text": "André or Sucre to update the Ambassador Calendar to add the correct dates of Archives WG meetings in Q1 2024 (8th Jan, 5th Feb, 5th March)",
+          "assignee": "André, Sucre n Spice",
+          "dueDate": "18 December 2024",
+          "status": "todo"
+        }
+      ]
+    }
+  ],
+  "tags": {
+    "topicsCovered": "LLMs, LLM development, Q1 2025 budget, budget caps, meeting summary tool, RAG retrieval process, archive names, controlled vocabularies, Budget fitting, Collaboration, spin-offs, Knowledge management across the singularityNET ecosystem, archives dashboard, narratives, concise summaries, good meeting summaries, Governance, Decision Making Process, decision tracking, autodidact, self-learning, data mining, data analysis, generative AI models, data structure, archives cataloguing, JSON, SQL, structured and unstructured data, hallucination, fabrication, education, learning, open source, open source ethos, knowledge graph, summary template, github board, DeepFunding",
+    "emotions": "small, in-depth, Discursive, exploratory"
+  },
+  "type": "Custom",
+  "noSummaryGiven": false,
+  "canceledSummary": false
+}
