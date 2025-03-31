@@ -1,0 +1,89 @@
+{
+  "source": "supabase",
+  "timestamp": "2025-03-31T08:18:44.922Z",
+  "workgroup": "AI Ethics WG",
+  "meetingDate": "2024-12-02",
+  "data": {
+    "workgroup": "AI Ethics WG",
+    "workgroup_id": "649a933f-3067-468f-891e-dbe47adcb88a",
+    "meetingInfo": {
+      "name": "Monthly",
+      "date": "2024-12-02",
+      "host": "CallyFromAuron",
+      "documenter": "LadyTempestt",
+      "peoplePresent": "advanceameyaw, Aetherblade, AshleyDawn, Ayo, CallyFromAuron, CollyPride, Duke, esewilliams, LadyTempestt, Onize, PeterE, Sucre n Spice",
+      "purpose": "Regular Meeting of the AI Ethics WG",
+      "workingDocs": [
+        {
+          "title": "WG GitHub Board",
+          "link": "https://github.com/SingularityNet-Ambassador-Program/AI-Ethics-Workgroup/issues"
+        },
+        {
+          "title": "AI Ethics WG Stuffs",
+          "link": "https://docs.google.com/spreadsheets/d/1vLC4ZIHO3WN-Ah9XwehRmbwLZAeePsxxYQXmLiiJLnQ/edit?usp=sharing"
+        }
+      ]
+    },
+    "agendaItems": [
+      {
+        "status": "carry over",
+        "narrative": "Tasks on Github\nWe started by going through tasks “in progress”;\nWe went through Q4 Interviews updates. Duke said he has done 3 interviews so far and will wrap up the remaining 7 before we go for holiday this quarter. Clement, Ayo and Kenichi are done with their Q3 interviews. AdvancedAmeyaw has done 3 so far and is looking to finish his Q4 interviews by the 7th of December. Onize is done with her Q4 interviews, Ese’s interviews for Q3 and Q4 are progressing just fine. We are not moving interviews “in progress” to “done” yet until the validity of the interviews has been confirmed(listening to them and more) by Esther, LeeLoo and Vani.\n\nModeration of the AI Ethics forum: Clement is doing fine here, nothing dramatic yet lol.\nPre-AGI roundtable AGI Chill out rooms rewards: It will not go through the Ambassador program Treasury system but it will come directly from the Supervisory council. Esther reached out to people involved, and rewards are supposed to go out this week. Leeloo will reach out to her for confirmation.  The issue will remain open till further notice.\n\nAdmin Team Roles: WG Internal Management, WG Async Support, Cochair and Community Manager have all given updates on what they have been doing.\nAI Ethics Event: We are looking to meet before the end of this quarter to discuss in a session what kind of events(virtual & physical) we can attend next year.\nDocumenting BeGIN meetings.\n\nWe went onto tasks in “to-do”;\nHow long should we keep Q3 interviews open? Especially the ones in “to-do”. CollyPride and LadyTempestt suggested the end of the year or before we all go on holiday. CallyFromAuron suggested we wait till Q1, 2025 and if there are people with Q3 interviews that are yet to be done, and other people interested in doing the interviews in Quarter 1 then we should reallocate.\nWe will look at producing Educational Resources to demystify basic AI Ethics Terminology & Ideas and Rewarding people who attended the training session for interviewing skills again in Q1 if we have extra budget. \nSucre won't do Q4 Interviews anymore, Ese will get to hers soon.\n\nWe also went through our Q1 budget Items: We will assign some specific items to people at the beginning of January or our first meeting next year. Colleen, Ese showed interest in this budget item;“ideation on how to get donors”. Onize, Duke, and possibly Stephen are interested in Knowledge Management and Data Analysis. If AGIX goes up we might be able to get Transcription done using ReadAI and edited by the interviewers.\n\nWe also went through and finalized our Q4 report.\nSurvey Sharing: We tested it and so far it just needs to be tweaked a bit so it can go out but it might not be before the end of the quarter. \n",
+        "decisionItems": [
+          {
+            "decision": "Clement will be a co-chair mentee again next quarter.",
+            "rationale": "He needs more time to grow into an admin role of his choice where possible.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "Possibly meet on Monday, 9th December at 14:00 UTC to discuss AI Ethics Events. Vani, Peter, Colleen, Duke, LeeLoo, Esther(the participants).",
+            "effect": "mayAffectOtherPeople"
+          },
+          {
+            "decision": "We will wait till Q1, 2025 and if there are people with Q3 interviews that are yet to be done, and other people interested in doing the interviews in Quarter 1 then we would reallocate.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We will continue our monthly meetings.",
+            "effect": "affectsOnlyThisWorkgroup"
+          },
+          {
+            "decision": "We will meet on the 13th of January, 3rd of February and the 3rd of March for our WG meetings next quarter.",
+            "effect": "affectsOnlyThisWorkgroup"
+          }
+        ],
+        "actionItems": [
+          {
+            "text": "Vani to reach out to Onize about documenting BeGIN Meetings to find out where she’s at with it.",
+            "assignee": "CallyFromAuron",
+            "dueDate": "31 December 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "Vani to reach out to Clement to put down updates on the GitHub issue assigned to him as a Co-Chair Mentee on what he's been up to.",
+            "assignee": "CallyFromAuron",
+            "dueDate": "24 December 2024",
+            "status": "in progress"
+          },
+          {
+            "text": "LadyTempestt to reach out to PG, Kevin Frey and Vasu concerning their Q4 interviews to find out how it is going.",
+            "assignee": "LadyTempestt",
+            "dueDate": "17 December 2024",
+            "status": "done"
+          },
+          {
+            "text": "Ladytempestt will document on 13th January, Onize will document on 3rd February and CollyPride will take on documentation on the 3rd of March.",
+            "assignee": "LadyTempestt, Onize, CollyPride",
+            "status": "todo"
+          }
+        ]
+      }
+    ],
+    "tags": {
+      "topicsCovered": "Q3 and Q4 Interviews, AI Ethics Events, Q1 budget, survey ",
+      "emotions": "Deliberative, quiet, funny "
+    },
+    "type": "Custom",
+    "noSummaryGiven": false,
+    "canceledSummary": false
+  }
+}
