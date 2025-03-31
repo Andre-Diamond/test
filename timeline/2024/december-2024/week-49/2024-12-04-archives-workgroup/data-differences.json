@@ -1,0 +1,66 @@
+{
+  "workgroup": "Archives Workgroup",
+  "meetingDate": "2024-12-04",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "André has implemented a controlled vocab for people's names in the Archives, based on Vani's \"Archive Names\" list https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing",
+      "supabase": "André has implemented a controlled vocab for people's names in the Archives, based on Vani's \"Archive Names\" list https://docs.google.com/spreadsheets/d/1r5LDA7yiERtWuu-HHYsBiG-RLyjDCtTZUB8H-xZHFsE/edit?usp=sharing He plans to write some code to enable us to go through old meeting summaries and corrrect any incorrect names (i.e. where someone has been recorded under a different name than the one that is usually used for them). New names can be added when creating a meeting summary, but they will not be added to the controlled vocab until they have been approved in an Archives meeting. We will add a standing task on the Board for this, to ensure we check each meeting."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Q1 Budget:",
+      "supabase": "Q1 Budget: We noted that our Q1 budget has been approved. We agreed that tasks that have been agreed for Q1 will be added as Issues on our GutHub board. We also noted that the new \"budget cap\" process has worked well - it seems to have speeded up the consent process, and also, by removing the need for budget fitting, it has removed the problems we noted in our last meeting (i.e. incentivising workgroups to submit higher budgets than they need, in anticipation of budget fitting)."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[4].decision",
+      "gitbook": "There has been a shift in direction on our work on a RAG retrieval process, after Stephen reviewed Ubio's work (see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/224 ). Stephen is aiming to structure the work as an autodidactic/self-learning approach, almost like a course. We have been questioning what we expect to use generative models *for*, and what we expect them to do; and looking at using (human) data analysis and data mining *before* we apply an LLM. Standard augmentation is usually about applying a **context** - so, what contextual constraints do we want to put on our use of a generative AI model in the context of the Archives? We need to be aware of where the data is structured and where it is unstructured (i.e. free text in meeting summaries), and look at how to structure data in a more constrained way (we note that JSON uses a \"tree\" structure, which has some parallels with the hierarchical structure of a traditional archival catalogue; and we can also see parallels with the approach of a knowledge graph database). Eventually we may use LLMs to help create semantic queries/prompts against an SQL database - so a hybrid of JSON/SQL rather than an actual knowledge graph.",
+      "supabase": "There has been a shift in direction on our work on a RAG retrieval process, after Stephen reviewed Ubio's work (see https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/224 ). Stephen is aiming to structure the work as an autodidactic/self-learning approach, almost like a course. We have been questioning what we expect to use generative models *for*, and what we expect them to do; and looking at using (human) data analysis and data mining *before* we apply an LLM. Standard augmentation is usually about applying a **context** - so, what contextual constraints do we want to put on our use of a generative AI model in the context of the Archives? We need to be aware of where the data is structured and where it is unstructured (i.e. free text in meeting summaries), and look at how to structure data in a more constrained way (we note that JSON uses a \"tree\" structure, which has some parallels with the hierarchical structure of a traditional archival catalogue; and we can also see parallels with the approach of a knowledge graph database). Eventually we may use LLMs to help create semantic queries/prompts against an SQL database - so a hybrid of JSON/SQL rather than an actual knowledge graph. This might also have implications for the redesign of the Summary Tool, in terms of how much of the data in a meeting summary is structured (and in what ways) and how much is free text. See also, updates in the relevant issues at https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/225 and https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/222"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[5].decision",
+      "gitbook": "Summary tool redesign - in the light of Stephen's work above, we noted that in the new version of the Tool, rather than the current approach of several different summary templates, we might want all summaries to use the same template style as Treasury meetings, where actions and decisions are connected to each agenda item.",
+      "supabase": "Summary tool redesign - in the light of Stephen's work above, we noted that in the new version of the Tool, rather than the current approach of several different summary templates, we might want all summaries to use the same template style as Treasury meetings, where actions and decisions are connected to each agenda item. We discussed at length how to disambiguate summaries from summary detail, and constraining the \"rambling\" narratives which we see in some meeting summaries."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[5].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[6].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[7].decision",
+      "gitbook": "André's tool development work for November https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/217 has included building the new Archives dashboard https://archives-dashboard.netlify.app",
+      "supabase": "André's tool development work for November https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/217 has included building the new Archives dashboard https://archives-dashboard.netlify.app It is working, despite a couple of minor bugs."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[7].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[8].decision",
+      "gitbook": "We noted that Sucre has completed her update of the Ambassador GitBook for Q4 2024 - see https://snet-ambassadors.gitbook.io/home/welcome-and-how-to-join/our-workgroups",
+      "supabase": "We noted that Sucre has completed her update of the Ambassador GitBook for Q4 2024 - see https://snet-ambassadors.gitbook.io/home/welcome-and-how-to-join/our-workgroups She will update the relevant Issue https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/215, then it can be closed and paid."
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Vani to approach DeepFunding, to ask about the issue raised in our November meeting about documentation of DF Town Hall: i.e. sometimes timestamps are not great, and additional work needs to be done to document the sessions in a meaningful way - could DF itself could make any further contribution to the work, e.g. by paying someone from the Town Hall team to add the documentation to the summary tool?",
+      "supabase": "Vani to approach DeepFunding, to ask about the issue raised in our November meeting about documentation of DF Town Hall: i.e. sometimes timestamps are not great, and additional work needs to be done to document the sessions in a meaningful way - could DF itself could make any further contribution to the work, e.g. by paying someone from the Town Hall team to add the documentation to the summary tool? and discuss how the Archives dovetails with documentation that DF is doing itself, such as https://community.deepfunding.ai/"
+    }
+  ]
+}
