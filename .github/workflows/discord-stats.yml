@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Run Discord-Stats Action
-        uses: Signius/discord-stats-action@v1
+        uses: Signius/discord-stats-action@1.0.0
         with:
           discord-token: ${{ secrets.DISCORD_TOKEN }}
           guild-id:       ${{ secrets.GUILD_ID }}
