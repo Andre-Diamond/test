@@ -1,0 +1,29 @@
+name: Update Discord Stats
+on:
+  schedule:
+    - cron: '0 2 1 * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run Discord-Stats Action
+        uses: Signius/discord-stats-action@v1
+        with:
+          discord-token: ${{ secrets.DISCORD_TOKEN }}
+          guild-id:       ${{ secrets.GUILD_ID }}
+          output-file:    data/discord-stats/stats.json
+          backfill:       'false'
+          backfill-year:  '2025'
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add .
+          git commit -m "chore: monthly Discord stats" || echo "No changes"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
